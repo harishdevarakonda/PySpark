@@ -1,0 +1,10 @@
+creating Dataframe 
+pandas ->dataframe
+data analayis 
+->count the number of rows in the dataframe
+  df.count()
+  df.distinct().count()
+  df.select()
+  df.filter()
+  like operator->pattern 
+  name start with 
